@@ -2,7 +2,7 @@
     "name": "escapeboy/epay",
     "description": "Epay API Payment Wrapper",
     "keywords": [
-        "BNP"
+        "Epay"
     ],
     "homepage": "https://github.com/escapeboy/epay",
     "license": "MIT",
