@@ -2,7 +2,7 @@
 
 ## Installation
 ```json
-"escapeboy/laravel-epay": "1.*"
+"escapeboy/epay": "1.*"
 ```
 
 ### In config/app.php
